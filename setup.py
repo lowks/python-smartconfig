@@ -8,7 +8,7 @@ setup(
     version = "1",
     url = 'https://github.com/ondrejsika/python-smartconfig/',
     license = 'MIT',
-    description = "",
+    description = "Eas(ier) way to create Python config files",
     author = 'Ondrej Sika',
     author_email = 'ondrej@ondrejsika.com',
     requires = [],
